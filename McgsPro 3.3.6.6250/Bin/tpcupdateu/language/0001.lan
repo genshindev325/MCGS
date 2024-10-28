@@ -1,0 +1,287 @@
+#for tools common 1000~1999
+[1000]
+string = "Warning"
+[1001]
+string = "Notes"
+[1002]
+string = "Error"
+[1003]
+string = "OK"
+[1004]
+string = "Yes"
+[1005]
+string = "No"
+[1006]
+string = "Cancel"
+[1007]
+string = "Back"
+[1008]
+string = "Returning to the settings window, please wait..."
+[1009]
+string = "Exiting the application, please wait..."
+[1010]
+string = "System reboot failed! %1"
+[1011]
+string = "Input TPC password"
+[1012]
+string = "The MAX length of the password is 20 characters!"
+[1013]
+string = "Incorrect password!"
+[1014]
+string = "Please enter your password:"
+[1015]
+string = "Exiting the application, please wait..."
+[1016]
+string = "You can execute enforcely or continue to wait"
+[1017]
+string = "Enforce"
+[1018]
+string = "Reboot"
+
+
+
+#for Project Package 2000~2999
+[2000]
+string = mcgsTpc Project Upgrade Package
+[2001]
+string = "You are using the mcgsTpc project upgrade package %1,"
+[2002]
+string = "Click \"Yes\" to continue. Click \"No\" to exit!"
+[2003]
+string = "Yes"
+[2004]
+string = "No"
+[2005]
+string = "Download Project"
+[2006]
+string = "Upload Project"
+[2007]
+string = "Reboot"
+[2008]
+string = "Stop"
+[2009]
+string = "Download"
+[2010]
+string = "Exit"
+[2011]
+string = "Checking the project data..."
+[2012]
+string = "Read the TPC verification file Failed!"
+[2013]
+string = "Read the TPC information file Failed!"
+[2014]
+string = "Project downloaded failed for No config file. Possible reasons: \n1. Be selected project does not apply to this Tpc. \n2. Be selected project data is incomplete. \nSuggestion: re-create the Project Upgrade Package. \n3. The U disk is loose or removed. \n"
+[2015]
+string = "The platform is incompatible,%1 project can only run on %1 Tpc!"
+[2016]
+string = "No files need to be downloaded!"
+[2017]
+string = "The new project data in TPC is incorrect, download failed!"
+[2018]
+string = "Cannot be downloaded, possible reasons: \n1. Be selected project data is incomplete. \nSuggestion: re-create the Project Upgrade Package. \n2. The U disk is loose or removed."
+[2019]
+string = "The project data in the package is incorrect and cannot be downloaded!"
+[2020]
+string = "The project data integrity check failed!\nCannot be upgraded!"
+[2021]
+string = "The project data integrity check passed!"
+[2022]
+string = "Checking the series of project and Tpc..."
+[2023]
+string = "The configured series of the project data is incorrect. Please re-package and try again!"
+[2024]
+string = "Besure to continue upgrading"
+[2025]
+string = "The series of Mcgs-App in TPC is unknown. Do you want to continue upgrading?"
+[2026]
+string = "Upgrade canceled."
+[2027]
+string = "Check the series of the project and Tpc are failed! \nCannot be upgraded!"
+[2028]
+string = "Check the series of the project and Tpc passed!"
+[2029]
+string = "The hardware of TPC does not support for this project of %1 !"
+[2030]
+string = "Notes"
+[2031]
+string = "The Mcgs-App in the package is incorrect. Do you stop upgrading Mcgs-App and continue to upgrade the project? \nIf you mast upgrade the Mcgs-App, please re-create the upgrade package and try again!"
+[2032]
+string = "The Mcgs-App of TPC is damaged. Do you want to upgrade the Mcgs-App to %1? "
+[2033]
+string = "The current Mcgs-App version of TPC is: %1, lower than the Mcgs-App be attached by the selected project. Do you want to upgrade the Mcgs-App to %2? "
+[2034]
+string = "Sure upgrade Mcgs-App"
+[2035]
+string = "Checking the version compatibility between the project and Mcgs-App of Tpc..."
+[2036]
+string = "The version of project and Mcgs-App are not compatible! \nUpgrade Faile!"
+[2037]
+string = "The mcgsPro designer version does not match, please upgrade the mcgsPro designer to the version of %1.%2.%3!"
+[2038]
+string = "The Mcgs-App version does not match, please upgrade the Mcgs-App to the version of %1.%2.%3!"
+[2039]
+string = "The version compatibility check of the project and the Mcgs-App has passed!"
+[2040]
+string = "The Mcgs-App in the package is incomplete. Please re-package and try again!"
+[2041]
+string = "The Mcgs-App in the package is wrong. Please re-package and try again!"
+[2042]
+string = "The Mcgs-App series in the package is inconsistent with the corresponding series of the project. Please re-package and try again!"
+[2043]
+string = "Upgrading project: %1"
+[2044]
+string = "Checking disk space..."
+[2045]
+string = "The disk space of Tpc is not enough! \nUpgrade project failed!"
+[2046]
+string = "Deleting user data..."
+[2047]
+string = "User data deleted successfully..."
+[2048]
+string = "User data deleted Failed!"
+[2049]
+string = "The disk space of user area is not enough! \n Project upgrade failed!"
+[2050]
+string = "Disk space check passed!"
+[2051]
+string = "Deleting old project data..."
+[2052]
+string = "Failed to delete old project data! \nProject upgrade failed!"
+[2053]
+string = "Delete old project data is complete! \nNew project data is being copied..."
+[2054]
+string = "Download Failed: U disk was loose or pulled out, and upgrade package data was not found. \n Download Failed!"
+[2055]
+string = "New project data copy failed! \nProject upgrade failed!"
+[2056]
+string = "Copy new project data complete! \nChecking the new project data in TPC..."
+[2057]
+string = "Checking new project data of TPC failed! \nProject upgrade failed!"
+[2058]
+string = "Checking new project data of TPC complete! \nProject upgrade successfully!"
+[2059]
+string = "Project upgrade success!"
+[2060]
+string = "The download process was terminated by the user."
+[2061]
+string = "Auto reboot after %1 seconds..."
+[2062]
+string = "The Mcgs-App has been upgraded, need to reboot the system, please confirm!"
+[2063]
+string = "OK"
+[2064]
+string = "Mcgs-App: Failed to switch path %1."
+[2065]
+string = "Mcgs-App verification: the 'mcgs_app/update.ini' file in the package is incorrect..."
+[2066]
+string = "Mcgs-App verification:The file of %1 in the package does not exist and cannot be upgraded. Please check and try again!"
+[2067]
+string = "Mcgs-App verification:Failed to open the file of %1 in the package, cannot be upgrade, please check and try again!"
+[2068]
+string = "Mcgs-App verification:Failed to verify the file of %1 in the package, cannot be upgrade, please check and try again!"
+[2069]
+string = "Deleting recipe data..."
+[2070]
+string = "Delete recipe data successfully"
+[2071]
+string = "Delete recipe data Failed!"
+[2072]
+string = "Deleting history data..."
+[2073]
+string = "Delete history data successfully"
+[2074]
+string = "Delete history data  Failed!"
+[2075]
+string = "Deleting alarm data..."
+[2076]
+string = "Delete alarm data successfully"
+[2077]
+string = "Delete alarm data Failed!"
+[2078]
+string = "Deleting init data..."
+[2079]
+string = "Delete init data successfully"
+[2080]
+string = "Delete init data Failed!"
+[2081]
+string = "Mcgs-App upgrade failed , please check: \n1, whether the U disk is loose; \n2, whether the upgrade package is correct; \n3, try again after confirmation."
+[2082]
+string = "Warning"
+[2083]
+string = "Returning to the setting window, please wait..."
+[2084]
+string = "Exiting the application, please wait..."
+[2085]
+string = "Reboot failed! %1"
+[2086]
+string = "Input TPC password"
+[2087]
+string = "The MAX length of the password is 20 characters!"
+[2088]
+string = "Incorrect password!"
+[2089]
+string = "Please enter your password:"
+[2090]
+string = "Please do not power off or unplug the U disk during the upload process, otherwise the project will fail to upload!"
+[2091]
+string = "\"%1\" is already exist in the  U disk.\n Can it be overwritten?"
+[2092]
+string = "Uploading project..."
+[2093]
+string = "Upload project successful."
+[2094]
+string = "The project file will be unziped. Please do not power off or unplug the U disk, otherwise the project will unzip fail..."
+[2095]
+string = "Upload project failed!"
+[2096]
+string = "Unzip the project failed. Please check and try again!"
+[2097]
+string = "Unzip the project successfully."
+[2098]
+string = "Upload the project files to U disk successfully: tpcbackup/%1."
+[2099]
+string = "Unziping project..."
+[2100]
+string = "Project list"
+[2101] 
+string = "Notes: you can not power off or pull out the U disk during the download process!"
+[2102]
+string = "Upload"
+[2103] 
+string = "Back"
+[2104] 
+string = "Project upload"
+[2105] 
+string = "[Start]\n"
+[2106] 
+string = "[Success]\n"
+[2107] 
+string = "[Faile]\n"
+[2108] 
+string = "The Mcgs-App of TPC is %1, it need upgrade the Mcgs-App to %2, Otherwise, the project cannot be upgraded.Please confirm!"
+[2109] 
+string = "The Mcgs-App of TPC is %1, can not upgrade the project of %2! Please upgrade the Mcgs-App to %3."
+[2110]
+string = "Getting the series of project and Tpc..."
+[2111]
+string = "Getting the series of project and Tpc successfully!"
+[2112] 
+string = "Checking the hardware of the TPC..."
+[2113] 
+string = "Check the hardware of the TPC failed, the error code:%1, the project of %2 cannot run on this TPC!"
+[2114] 
+string = "Check the hardware of the TPC successfully."
+[2115] 
+string = "The Mcgs-App of TPC is damaged and the project cannot be upgraded. Please upgrade the Mcgs-App first!"
+[2116] 
+string = "The Mcgs-App of TPC is damaged, please upgrade the Mcgs-App first. Otherwise, the project cannot be upgraded!"
+[2117] 
+string = "Checking the integrity of the Mcgs-App of the TPC..."
+[2118] 
+string = "Check the integrity of the Mcgs-App of the TPC has been completed."
+[2119] 
+string = "TPC upload project"
+[2120]
+string = "The project configuration file is damaged, please repackage and try again!"
+[2121] 
+string = "[Warning] The space required for project saving (%1M) is greater than the current available disk space (remaining space: %2M + reuse space: %3M)!"

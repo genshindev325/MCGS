@@ -1,0 +1,489 @@
+#tools common 1000~1999 
+[1000]
+string = "Warning"
+[1001]
+string = "Notice"
+[1002]
+string = "Error"
+[1003]
+string = "OK"
+[1004]
+string = "Yes"
+[1005]
+string = "No"
+[1006]
+string = "Cancel"
+[1007]
+string = "Back"
+[1008]
+string = "Returning to the system settings, please wait..."
+[1009]
+string = "Exiting the application, please wait..."
+[1010]
+string = "System reboot failed!%1"
+[1011]
+string = "TPC password input"
+[1012]
+string = "The MAX length of the password is 20 characters!"
+[1013]
+string = "Incorrect password!"
+[1014]
+string = "Please enter the password:"
+[1015]
+string = "Exiting the application, please wait..."
+[1016]
+string = "You can execute enforcely or continue to wait"
+[1017]
+string = "Enforce"
+[1018]
+string = "Reboot"
+
+
+
+
+#Upgrade tool 2000~2999
+[2000]
+string = "success"
+[2001]
+string = "failure"
+[2002]
+string = "mcgsTpc app update tools"
+[2003]
+string = "You are using mcgsTpc update tools %1,"
+[2004]
+string = "Stop \"netctrl_app\" failed\n"
+[2005]
+string = "Read the config failed, please check whether the package is complete!\n"
+[2006]
+string = "Read the config failed, please check whether the\npackage is complete"
+[2007]
+string = "The platform of package and Tpc does not match, \ncannot be upgraded!"
+[2008]
+string = "Does not meet the upgrade conditions!\n"
+[2009]
+string = "Platform file does not exist!"
+[2010]
+string = "The format of platform file is wrong!"
+[2011]
+string = "The Platform file configured error!"
+[2012]
+string = "Read the platform mark failed!"
+[2013]
+string = "The current platform is not configured!"
+[2014]
+string = "The upgrade file is incomplete. Please check and try again!"
+[2015]
+string = "Unable to upgrade, possible reasons: \r\n 1. The project data file in the U disk is incomplete. \r\nRecommendation: re-create the package. \r\n 2. The U disk is loose or removed."
+[2016]
+string = "Start successful\n"
+[2017]
+string = "Run environment: The upgrade package does not exist, please check and try again!"
+[2018]
+string = "Mcgs-App: parsing \"mcgs_app/update.ini\"..."
+[2019]
+string = "Mcgs-App: The file named of \"mcgs_app/update.ini\" is incorrect!"
+[2020]
+string = "Mcgs-App: No files need to be upgraded, please check and try again!"
+[2021]
+string = "Mcgs-App: Parse \"mcgs_app/update.ini\" complete, and the total of %1 items need to be upgraded."
+[2022]
+string = "Mcgs-App: Clearing old files..."
+[2023]
+string = "Mcgs-App: Clear the item of %1 failed(Failed to create%2 directory)!"
+[2024]
+string = "Mcgs-App: Clear the item of %1 complete (Create the %2 directory successfully)."
+[2025]
+string = "Mcgs-App: Clear the %1 item %2 complete."
+[2026]
+string = "Mcgs-App: The file name of \"mcgs_app/update.ini\" in the package is incorrect..."
+[2027]
+string = "Mcgs-App: The file name of \"mcgs_app/update.ini\" in TPC is incorrect..."
+[2028]
+string = "Mcgs-App: Checking the file named of %1 in the package..."
+[2029]
+string = "Mcgs-App: Checking the upgraded file named of %1 in TPC..."
+[2030]
+string = "Mcgs-App: The file named of %1 in the package does not exist and cannot be upgraded. Please check and try again!"
+[2031]
+string = "Mcgs-App: The upgraded file named of %1 in TPC does not exist. Upgrade failed. Please check and try again!"
+[2032]
+string = "Mcgs-App: Open the file named of %1 in the package, cannot be upgraded. Please check and try again!"
+[2033]
+string = "Mcgs-App: Open the upgraded file named of %1 in TPC failed, please upgrade again!"
+[2034]
+string = "Mcgs-App: Check the file named of %1 in the package failed, cannot be upgraded, please check and try again!"
+[2035]
+string = "Mcgs-App: Check the upgraded file named of %1  in TPC failed, please upgrade again!"
+[2036]
+string = "Mcgs-App: The named of %1 check passed."
+[2037]
+string = "Mcgs-App: upgrading files in TPC..."
+[2038]
+string = "Mcgs-App: The upgrade data named of %1 does not exist and cannot be upgraded!"
+[2039]
+string = "Mcgs-App: Upgrade item %1 item %2 is complete."
+[2040]
+string = "Mcgs-App: The upgrade data naemd of %1 does not exist and cannot be upgraded!"
+[2041]
+string = "Mcgs-App: Delay copying file %1,%2 does not exist"
+[2042]
+string = "Mcgs-App: The file named of %1 does not exist and cannot be upgraded!"
+[2043]
+string = "Mcgs-App: upgrade %1"
+[2044]
+string = "Mcgs-App: updating configuration..."
+[2045]
+string = "Mcgs-App: update the config named of %1 failed, please upgrade again!"
+[2046]
+string = "Mcgs-App: Update configuration is complete."
+[2047]
+string = "Grant executable permission for %1 failed..."
+[2048]
+string = "Grant executable permission for %1 successfully!"
+[2049]
+string = "Mcgs-App: %1 has been deleted!"
+[2050]
+string = "Mcgs-App: Delete %1"
+[2051]
+string = "Mcgs-App: Delete the named of %1 failed!"
+[2052]
+string = "dlgUpnote memory allocation failed"
+[2053]
+string = "Close the specified process failed!"
+[2054]
+string = "[Report]\n"
+[2055]
+string = "[Failed]\n"
+[2056]
+string = "Please close this window after the upgrade is complete"
+[2057]
+string = "Mcgs-App: Delete old data complete."
+[2058]
+string = "Mcgs-App: Copy data complete."
+[2059]
+string = "[Success]"
+#"Success"不可修改，该项用做运行环境升级是否成功的标志
+[2060]
+string = "Upgrade system check: Switch the working path to the folder named of \"system\" failed!\n"
+[2061]
+string = "Upgrade system check: Parse config failed! \n"
+[2062]
+string = "Upgrade system check: Check failed!\n"
+[2063]
+string = "Upgrade Mcgs-App check: Switch the working path to the folder named of \"./mcgs_app\" failed!\n"
+[2064]
+string = "Upgrade Mcgs-App check: Check failed!"
+[2065]
+string = "Upgrade Mcgs-App check: Parse config failed!\n"
+[2066]
+string = "Upgrade Mcgs-App check: Switch the working path to the folder named of \"tpcbackup\" failed!\n"
+[2067]
+string = "Upgrade project check: Switch the working path to the folder named of \"project\" failed!\n"
+[2068]
+string = "Upgrade project check: Check failed!"
+[2069]
+string = "Upgrade project check: Switch the working path to the folder named of \"tpcbackup\" failed!\n"
+[2070]
+string = "Upgrade correction package check: Switch the working path to the folder named of \"tpcinfo\" failed!\n"
+[2071]
+string = "Upgrade correction package check: Parse the config failed!\n"
+[2072]
+string = "Upgrade correction package check: Check failed!\n"
+[2073]
+string = "Upgrade correction package check: Switch the working path to the folder named of \"tpcbackup\" failed\n"
+[2074]
+string = "Parse \"update.ini\" failed!"
+[2075]
+string = "Copy specified file check: Check failed!\n"
+[2076]
+string = "Delete specified file check: Check failed!\n"
+[2077]
+string = "Grant executable permission check: Check failed!\n"
+[2078]
+string = "Switch to the folder named of %1 failed!"
+[2079]
+string = "No config files , please check whether the upgrade package is complete"
+[2080]
+string = "Start upgrading..."
+[2081]
+string = "Parse \"update.ini\" failed..."
+[2082]
+string = "Parse \"update.ini\" successfully..."
+[2083]
+string = "Upgrade failed."
+[2084]
+string = "Start copying the specified file..."
+[2085]
+string = "Copy specified file check: Check failed!\n"
+[2086]
+string = "Copy specified file check: Check failed."
+[2087]
+string = "Copy file failed."
+[2088]
+string = "Copy file successfully."
+[2089]
+string = "Start deleting the specified file..."
+[2090]
+string = "Delete dpecify file check: Check failed!\n"
+[2091]
+string = "Delete dpecify file check: Check failed."
+[2092]
+string = "File deleted failed."
+[2093]
+string = "File deleted successfully."
+[2094]
+string = "Grant executable permissions to the specified file..."
+[2095]
+string = "Grant executable permission check: Check failed!\n"
+[2096]
+string = "Grant executable permission check: Check failed."
+[2097]
+string = "Grant executable permissions failed"
+[2098]
+string = "Grant executable permissions successfully..."
+[2099]
+string = "Upgrade successfully, please click reboot to take effect"
+[2100]
+string = "Parsing configuration file..."
+[2101]
+string = "Services Start: Services Started failed"
+[2102]
+string = "Services Start: Services Started successfully"
+[2103]
+string = "Services Close: Services Closed failed"
+[2104]
+string = "Services Close: Services Closed successfully"
+[2105]
+string = "Commands: The command executed failed!"
+[2106]
+string = "Commands: The command has been executed!"
+[2107]
+string = "Upgrading system..."
+[2108]
+string = "System Upgrade: Switch the working path to the folder named of \"system\" failed"
+[2109]
+string = "System Upgrade: Upgrade system failed"
+[2110]
+string = "System Upgrade: Switch the working path to the folder named of \"tpcbackup\" failed"
+[2111]
+string = "The system upgraded successful."
+[2112]
+string = "Upgrading Mcgs-App..."
+[2113]
+string = "Mcgs-App Upgrade: Switch the working path to the folder named of \"./mcgs_app\" failed"
+[2114]
+string = "Mcgs-App Upgrade: Upgrade run environment failed"
+[2115]
+string = "Mcgs-App Upgraded successfully..."
+[2116]
+string = "Mcgs-App Upgrade: Switch the working path to the folder named of \"tpcbackup\" failed"
+[2117]
+string = "Mcgs-App Upgraded successfully."
+[2118]
+string = "Updating user project..."
+[2119]
+string = "Project Upgrade: Switch the working path to the folder named of \"project\" failed"
+[2120]
+string = "Project Upgrade: Project Upgraded failed"
+[2121]
+string = "Project Upgrade: Project Upgraded successfully..."
+[2122]
+string = "Project Upgrade Switch the working path to the folder named of \"tpcbackup\" failed"
+[2123]
+string = "Project Upgraded successfully."
+[2124]
+string = "Updating Correction package..."
+[2125]
+string = "Correction package Upgrade: Switch the working path to the folder named of \"tpcinfo\" failed"
+[2126]
+string = "Correction package Upgrade: Upgrade the U disk mark failed"
+[2127]
+string = "Correction package Upgrade: failed to switch working path to \"tpcbackup\" folder"
+[2128]
+string = "Correction package Upgraded successfully."
+[2129]
+string = "NK Upgrade: Parse the config failed"
+[2130]
+string = "NK Upgrade: Parse the config successfully"
+[2131]
+string = "NK Upgrade: Copy files failed"
+[2132]
+string = "NK Upgrade: Copy files successfully"
+[2133]
+string = "NK Upgrade: Delete file failed"
+[2134]
+string = "NK Upgrade: Delete file successfully"
+[2135]
+string = "NK Upgrade: Grant executable permission failed"
+[2136]
+string = "NK Upgrade: Grant executable permission successfully"
+[2137]
+string = "Correction package Upgrade: Parse config failed"
+[2138]
+string = "Correction package Upgrade: Parse config successfully"
+[2139]
+string = "Correction package Upgrade: copying files..."
+[2140]
+string = "Correction package Upgrade: Copy files failed"
+[2141]
+string = "Correction package Upgrade: Copy files successfully..."
+[2142]
+string = "Correction package Upgrade: Delete file failed"
+[2143]
+string = "Correction package Upgrade: Delete file successfully..."
+[2144]
+string = "Correction package Upgrade: Grant executable permissions failed"
+[2145]
+string = "Correction package Upgrade: Grant executable permission successfully"
+[2146]
+string = "Automatic start: The file of Service does not exist"
+[2147]
+string = "Service Close: the corresponding service file does not exist"
+[2148]
+string = "Switch to the directory named of %1 failed!"
+[2149]
+string = "Project Upgrade: Delete recipe data successfully"
+[2150]
+string = "Project Upgrade: Delete recipe data failed"
+[2151]
+string = "Project Upgrade: Delete historical data successfully"
+[2152]
+string = "Project Upgrade: Delete historical data failed"
+[2153]
+string = "Project Upgrade: Delete alarm data successfully"
+[2154]
+string = "Project Upgrade: Delete alarm data failed"
+[2155]
+string = "Project Upgrade: Delete init data successfully"
+[2156]
+string = "Project Upgrade: Delete init data failed"
+[2157]
+string = "Project Upgrade: Download project failed. Possible reasons: \n1. The project file named of %1 in the package does not exist. \nRecommendation: re-create the package. \n2. The U disk is loose or removed. \n"
+[2158]
+string = "Project Upgrade: The project download failed. Possible reasons: \n1. The project file named of %1 in the package is incorrect. \nRecommendation: re-create the package. \n2. The U disk is loose or removed."
+[2159]
+string = "Project Upgrade: No files need to be downloaded!"
+[2160]
+string = "Project Upgrade: Deleting old project data..."
+[2161]
+string = "Project Upgrade: Delete old project data complete."
+[2162]
+string = "Project Upgrade: Delete old project data failed."
+[2163]
+string = "Project Upgrade: Please update the current system version"
+[2164]
+string = "Project Upgrade: Checkint new project data in TPC..."
+[2165]
+string = "Project Upgrade: Check the project file named of %1  in the TPC does not exist, and download failed!"
+[2166]
+string = "Project Upgrade: Can't download, possible reason: \n1. The project file named of %1 in the package does not exist. \nRecommendation: re-create the package. \n2. The U disk is loose or removed."
+[2167]
+string = "Project Upgrade: Check the size of new project file named of %1 in TPC is incorrect and the download failed!"
+[2168]
+string = "Project Upgrade: The project file named of %1 in the package is incorrect and cannot be downloaded!"
+[2169]
+string = "Project Upgrade: Check the CRC of the new file named of %1 in TPC failed, the download failed!"
+[2170]
+string = "Project Upgrade: Check the CRC of the project file name of %1 in the package failed, cannot be downloaded!"
+[2171]
+string = "Project Upgrade: Check the new project data in TPC successfully."
+[2172]
+string = "Project Upgrade: copying new project data..."
+[2173]
+string = "Project Upgrade: Download project failed, the U disk connection was disconnected, and the U disk package data was not found. \nTerminate download!"
+[2174]
+string = "Project Upgrade: copy the named of %1"
+[2175]
+string = "Project Upgrade: copy the new project data is complete."
+[2176]
+string = "Copy file failed, start to restore the original file..."
+[2177]
+string = "Copy file failed, restore the original file successfully..."
+[2178]
+string = "The named of %1 does not exist!"
+[2179]
+string = "Grant executable permissions:%1"
+[2180]
+string = "The file named of %1 does not exist, it may have been deleted"
+[2181]
+string = "Delete the file named of %1 failed"
+[2182]
+string = "Delete the file named of %1 successfully"
+[2183]
+string = "The file or folder named of %1 does not exist, may have been deleted"
+[2184]
+string = "The file named of %1 does not exist, it may have been deleted"
+[2185]
+string = "Delete the file named of %1 failed"
+[2186]
+string = "Delete the file named of %1 successfully"
+[2187]
+string = "The file or folder named of %1 does not exist, may have been deleted"
+[2188]
+string = "The file named of %1 does not exist, it may have been deleted"
+[2189]
+string = "Delete the file named of %1 failed"
+[2190]
+string = "Delete the file named of %1 successfully"
+[2191]
+string = "Delete the folder named of %1 successfully"
+[2192]
+string = "Delete the folder named of %1 failed"
+[2193]
+string = "The file named of %1 does not exist, copy fails"
+[2194]
+string = "Create the folder named of %1 falied when copying files"
+[2195]
+string = "Copy the file named of %1 to %2 failed"
+[2196]
+string = "Create the folder name of %1 failed"
+[2197]
+string = "The folder name of %1 does not exist, folder copy failed"
+[2198]
+string = "Copy the file name of %1 to %2 failed"
+[2199]
+string = "The folder name of %1 does not exist, folder copy failed"
+[2200]
+string = "The folder name of %1 does not exist, folder copy failed"
+[2201]
+string = "Copy the file named of %1 successfully!"
+[2202]
+string = "The destination file name of %1 does not exist, cannot be renamed"
+[2203]
+string = "Rename the file named of %1 to %2 failed"
+[2204]
+string = "The file name of %1 does not exist, cannot be renamed"
+[2205]
+string = "The destination folder named of %1 does not exist, cannot be renamed"
+[2206]
+string = "Rename the file named of %1 to %2 failed"
+[2207]
+string = "The destination folder named of %1 does not exist and cannot be renamed"
+[2208]
+string = "The folder named of %1 does not exist, folder copy failed"
+[2209]
+string = "The file named of %1 check CRC failed"
+[2210]
+string = "The file named of %1 check CRC failed"
+[2211]
+string = "The named of %1 does not match crc32 code"
+[2212]
+string = "Reboot"
+[2213]
+string = "Notes: Cannot pull out U disks during the upgrade process!"
+[2214]
+string = "Total progress:"
+[2215]
+string = "Upgrade Mcgs-App to %1.\n\n Click \"Yes\" to start; click \"No\" to exit."
+[2216]
+string = "Does not meet the upgrade conditions,\n Click \"Yes\" to continue; click \"No\" to exit."
+[2217]
+string = "%1 with type ini not exist"
+[2218]
+string = "%1 with type ini not exist or error format"
+[2219] 
+string = "Check the hardware of the TPC failed, \nthe error code:%1, cannot upgrade Mcgs-App!"
+[2220]
+string = "Auto reboot after %1 seconds..."
+[2221] 
+string = "%1 stop failed!"

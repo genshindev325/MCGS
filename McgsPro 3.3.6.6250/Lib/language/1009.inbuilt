@@ -1,0 +1,1204 @@
+﻿#for GUI 0~999
+[info]
+languagename = Italy
+fontname = Arial
+fontscale = 100
+[0]
+string = Indirizzo IP del presente sistema: 
+[1]
+string = Numero di versione del software:
+[2]
+string = No.serie unico del presente sistema:
+[3]
+string = Configurazione di prodotto: 
+[4]
+string = No.codice di prodotto:
+[5]
+string = Immettere il programma di calibrazione touch dopo aver premuto per 3 secondi il bianco
+[6]
+string = In esecuzione per 30 minuti
+[7]
+string = Entrare nell'ambiente operativo
+[8]
+string = Impostazione dei parametri di sistema
+[9]
+string = Non esiste un progetto in esecuzione
+[10]
+string = Avvertenza
+[11]
+string = Non esiste un progetto in esecuzione, si prega di scaricare il progetto!
+[12]
+string = Trascuratezza
+[13]
+string = Impostazione
+[14]
+string = Il tempo di sistema è anormale! Si prega di ripristinare l'ora del sistema o sostituire la batteria prima di resettare l'ora del sistema.
+[15]
+string = Fare clic sul pulsante "Trascuratezza": il touch screen avvierà il progetto.
+[16]
+string = Fare clic sul pulsante "Impostazione": il touch screen entrerà nell'interfaccia delle impostazioni di sistema.
+[17]
+string = Conferma
+[18]
+string = Tipo di valore:
+[19]
+string = Intero [decimale]:
+[20]
+string = Intero [esadecimale]:
+[21]
+string = Intero [binario]:
+[22]
+string = Rinuncia
+[23]
+string = Immissione password TPC
+[24]
+string = Si prega di inserire codice:
+[25]
+string = Sollecito
+[26]
+string = La password non deve contenere più di 20 caratteri!
+[27]
+string = Errore di immissione di codice!
+[28]
+string = Vuoto
+[29]
+string = Maiscola
+[30]
+string = Minuscolo
+[31]
+string = Simbolo
+[32]
+string = Pinyin
+[33]
+string = Tipo di personaggio:
+[34]
+string = Imposta 1
+[35]
+string = Imposta 0
+[36]
+string = Ingresso di commutazione:
+[37]
+string = Le nuove impostazioni di calibrazione sono state determinate.
+[38]
+string = Fare clic sull'area interna del pulsante significa accettare la nuova impostazione; fare clic sull'area esterna del pulsante significa mantenere l'impostazione originale.
+[39]
+string = Usa il dito per tenere delicatamente e accuratamente il centro del mirino per almeno 1 secondo.
+[40]
+string = Ripeti questa azione mentre la croce si sposta sullo schermo.
+[41]
+string = Conferma la calibrazione
+[42]
+string = Continuare
+[43]
+string = Ritiro
+[44]
+string = Controlli
+[45]
+string = Non supportato!
+[46]
+string = Clicca su
+[47]
+string = Il progetto continuerà a funzionare, ma alcuni componenti nella finestra non funzioneranno correttamente (display)!
+[48]
+string = Esci dall'ambiente corrente.
+[49]
+string = Serializzazione dei dati fallita!
+[50]
+string = Impostazione per range di tempo
+[51]
+string = Tutti i dati salvati
+[52]
+string = Tempo in recente
+[53]
+string = Secondo
+[54]
+string = Minuto
+[55]
+string = Ora
+[56]
+string = Giorno
+[57]
+string = Mese
+[58]
+string = Anno
+[59]
+string = Tempo fisso
+[60]
+string = Tempo specificato
+[61]
+string = Stesso giorno
+[62]
+string = Presente mese
+[63]
+string = Presente settimana
+[64]
+string = Ieri
+[65]
+string = Il mese scorso
+[66]
+string = Il giorno prima
+[67]
+string = Mese precedente
+[68]
+string = La scorsa settimana
+[69]
+string = Punto a divisione di tempo
+[70]
+string = Giorno
+[71]
+string = Impostazioni di sistema TPC
+[72]
+string = Minuto
+[73]
+string = Informazioni di sistema
+[74]
+string = Edizione:
+[75]
+string = Tipo di versione:
+[76]
+string = Data:
+[77]
+string = Informazioni sulla memoria
+[78]
+string = Capacità:
+[79]
+string = Spazio usato:
+[80]
+string = Spazio libero:
+[81]
+string = Memoria disponibile:
+[82]
+string = La retroilluminazione si spegne automaticamente
+[83]
+string = Regolazione della luminosità:
+[84]
+string = Inattività continua
+[85]
+string = disattiva la retroilluminazione
+[86]
+string = Controluce
+[87]
+string = Muto
+[88]
+string = Durata del segnale acustico:
+[89]
+string = Bip
+[90]
+string = Per la ricalibrazione del touch screen
+[91]
+string = Calibrazione del touch screen
+[92]
+string = Utilizzando il puntatore del mouse
+[93]
+string = Toccare
+[94]
+string = Ora attuale
+[95]
+string = Impostazione
+[96]
+string = Tempo
+[97]
+string = Codice vecchio:
+[98]
+string = Codice nuovo:
+[99]
+string = Conferma di codice:
+[100]
+string = Codice
+[101]
+string = Cambia la modalità porta USB o USB slave
+[102]
+string = Modalità USB attuale: porta principale
+[103]
+string = Modalità porta principale
+[104]
+string = Modalità slave
+[105]
+string = USB
+[106]
+string = Si prega di inserire una nuova password!
+[107]
+string = Le password di input non sono coerenti prima e dopo, inserisci la stessa password!
+[108]
+string = Le password possono contenere solo numeri e lettere!
+[109]
+string = Errore
+[110]
+string = Impossibile cambiare la password!
+[111]
+string = Cambia password con successo!
+[112]
+string = Impostazione dell'ora di sistema fallita!
+[113]
+string = L'orario del sistema è impostato correttamente.
+[114]
+string = Modalità USB attuale: porta slave
+[115]
+string = Dalla bocca -->> porto principale
+[116]
+string = Porta principale -->> dalla bocca
+[117]
+string = Si prega di confermare che l'unità flash USB è stata rimossa!
+[118]
+string = Dopo aver estratto il disco U, fare clic su
+[119]
+string = Passa dalla modalità USB alla modalità slave!
+[120]
+string = Annulla questa operazione di commutazione!
+[121]
+string = Si prega di confermare che il cavo di download USB è stato rimosso!
+[122]
+string = Dopo aver estratto il cavo di download USB, fare clic su
+[123]
+string = Passa dalla modalità USB alla modalità della porta principale!
+[124]
+string = Inizializzazione dei dati in tempo reale non riuscita, codice di errore: %1
+[125]
+string = Inizializzazione del dispositivo Drive non riuscita, codice di errore: %1
+[126]
+string = Inizializzazione del motore di script non riuscita, codice di errore: %1
+[127]
+string = Inizializzazione dell'attività in background non riuscita, codice di errore: %1
+[128]
+string = Sistema
+[129]
+string = Versione build:
+[130]
+string = Vuoi annullare la modalità di rete DHCP?
+[131]
+string = La rete è passata alla modalità DHCP?
+[132]
+string = La configurazione è stata modificata con successo!
+[133]
+string = Le informazioni sulla configurazione di rete non sono state modificate!
+[134]
+string = Si prega di inserire le informazioni complete sul gateway!
+[135]
+string = L'IP non si trova nella stessa subnet del gateway, È impostato?
+[136]
+string = Si
+[137]
+string = No
+[138]
+string = Le informazioni del gateway inserite non sono corrette!
+[139]
+string = L'indirizzo di broadcast non può essere utilizzato come indirizzo host!
+[140]
+string = Il numero di host IP non può essere 0!
+[141]
+string = Si prega di inserire le informazioni complete della maschera di sottorete!
+[142]
+string = Le informazioni sulla subnet mask inserite non sono corrette!
+[143]
+string = Per favore inserisci un indirizzo IP completo!
+[144]
+string = Le informazioni IP inserite non sono corrette!
+[145]
+string = Gateway:
+[146]
+string = Mask:
+[147]
+string = Avviare DHCP
+[148]
+string = Impostazione di ora
+[149]
+string = Lunedi
+[150]
+string = Martedi
+[151]
+string = Mercoledi
+[152]
+string = Giovedi
+[153]
+string = Venerdi
+[154]
+string = Sabato
+[155]
+string = Domenica 
+[156]
+string = Rete
+[157]
+string = Impossibile leggere un ID NAND univoco
+[158]
+string = Errore nel file del codice di registrazione
+[159]
+string = Il file del codice di registrazione non esiste
+[160]
+string = Errore durante la lettura dell'area crittografata
+[161]
+string = Si è verificata un'eccezione durante il processo di verifica del codice di registrazione
+[162]
+string = Non autorizzato dall'ambiente operativo, codice di errore
+[163]
+string = Autorizzato dell'ambiente operativo
+[164]
+string = Modifica di ricetta
+[165]
+string = Aggiunta
+[166]
+string = Eliminazione
+[167]
+string = Copia
+[168]
+string = Su
+[169]
+string = Giù
+[170]
+string = Salva
+[171]
+string = No.codice ricetta
+[172]
+string = Nome di ricetta
+[173]
+string = Scelta di ricetta
+[174]
+string = Conferma
+[175]
+string = Rinuncia
+[176]
+string = Modifica
+[177]
+string = Nome
+[178]
+string = Valore
+[179]
+string = Cambia password
+[180]
+string = La vecchia password non è corretta!
+[181]
+string = Codice nuovo  non è coerente con il codice confermato!
+[182]
+string = Nome d'utente:
+[183]
+string = Impostare correttamente la modalità di rete DHCP
+[184]
+string = Chiedere
+[185]
+string = Casella di input
+[186]
+string = Gestione dei membri utente
+[187]
+string = Gestione dei membri del gruppo utenti
+[188]
+string = Nome di gruppo d'utente:
+[189]
+string = Descrizione di gruppo d'utente:
+[190]
+string = Includi membri
+[191]
+string = Membro alternativo
+[192]
+string = Gruppi utente
+[193]
+string = Utente
+[194]
+string = Il nome è vuoto!
+[195]
+string = Nome duplicato!
+[196]
+string = Password incoerenti!
+[197]
+string = Il gruppo di utenti subordinato è vuoto, Vuoi continuare a salvare?
+[198]
+string = Provoca riferimenti circolari a relazioni di gruppo!
+[199]
+string = Il membro selezionato è vuoto, Vuoi continuare a salvare?
+[200]
+string = Nome d'utente:
+[201]
+string = Codice d'utente:
+[202]
+string = Appartenenza al gruppo dell'utente
+[203]
+string = Gruppo utente alternativo
+[204]
+string = Portata
+[205]
+string = Descrizione d'utente:
+[206]
+string = Accesso d'utente
+[207]
+string = Durata del login:
+[208]
+string = Connetti
+[209]
+string = Ti sei disconnesso?
+[210]
+string = Campo riservato 1
+[211]
+string = L'utente non ha autorizzazioni modificabili per utenti o gruppi di utenti!
+[212]
+string = Gruppo Amministratore
+[213]
+string = Aggiunta d'utente
+[214]
+string = Copia utente
+[215]
+string = Modifica utente
+[216]
+string = Elimina utente
+[217]
+string = Aggiungi gruppo
+[218]
+string = Copia gruppo
+[219]
+string = Modifica gruppo
+[220]
+string = Elimina gruppo
+[221]
+string = Impossibile cancellare!
+[222]
+string = Assicurati di voler eliminare l'utente
+[223]
+string = Modifica della configurazione fallita!
+[224]
+string = Assicurati di voler eliminare un gruppo di utenti
+[225]
+string = Questo software di configurazione supporta solo la creazione di un massimo di 32 gruppi di utenti!
+[226]
+string = Gestione utente
+[227]
+string = Gestione del gruppo utenti
+[228]
+string = Logged on Users
+[229]
+string = L'utente attualmente connesso si è disconnesso, hai effettuato nuovamente l'accesso?
+[230]
+string = Logout dell'utente
+[231]
+string = Al momento non ci sono utenti registrati!
+[232]
+string = Servizio di avvio attività in background non riuscito, codice di errore: %1
+[233]
+string = Il motore di script non è riuscito ad avviare il servizio, codice di errore: %1
+[234]
+string = Inizializzazione del sistema Windows non riuscita, codice di errore: %1
+[235]
+string = Impossibile avviare il servizio di sistema Windows, codice di errore: %1
+[236]
+string = Impossibile avviare il servizio dati in tempo reale, codice di errore: %1
+[237]
+string = Impossibile avviare il servizio del dispositivo di avvio, codice di errore: %1
+[238]
+string = No.serie
+[239]
+string = Il file dell'utente è danneggiato e non è possibile caricare i dati dell'utente!
+[240]
+string = Impossibile caricare i dati di autorizzazione dell'utente!
+[241]
+string = L'utente non ottiene le autorizzazioni di esecuzione, Esci dal sistema
+[242]
+string = Finestra utente
+[243]
+string = Il programma continuerà a funzionare, ma la visualizzazione della finestra sarà incompleta!
+[244]
+string = Impossibile impostare la modalità di rete DHCP!
+[245]
+string = Annulla La modalità di rete DHCP non è riuscita!
+[246]
+string = Indietro
+[247]
+string = Pinyin
+[248]
+string = Abc
+[249]
+string = Il programma continuerà a funzionare, ma il widget non funzionerà correttamente nella finestra!
+[250]
+string = Esegui scaduto
+[251]
+string = Staging attuale
+[252]
+string = Scadenza
+[253]
+string = Estendere la data di utilizzo a
+[254]
+string = Immettere una password di attivazione permanente per sbloccare tutte le fasi
+[255]
+string = Password di attivazione permanente
+[256]
+string = L'inserimento della data non è legale!
+[257]
+string = Precedente
+[258]
+string = Prossimo
+[259]
+string = Campo riservato 2
+[260]
+string = Il file di progetto non è compatibile con l'ambiente operativo, Aggiorna l'ambiente di configurazione!
+[261]
+string = Le impostazioni di schermo orizzontale e verticale del progetto non sono coerenti con i requisiti dell'ambiente di sistema, Per garantire che l'operazione del progetto sia normale, si consiglia di riavviare il touchscreen!
+[262]
+string = Inserisci la tua password e la data per prolungare la tua vita
+[263]
+string = Immettere la password corrente per attivare la successiva stadiazione
+[264]
+string = La configurazione di visualizzazione del progetto è mancante, si prega di scaricare nuovamente il progetto!
+[265]
+string = Fai clic su "Trascuratezza": il programma continuerà a funzionare, ma il progetto potrebbe mostrare un'eccezione.
+[266]
+string = Fare clic su "Indietro": il programma tornerà all'interfaccia delle impostazioni di sistema.
+[267]
+string = La risoluzione del progetto non corrisponde al sistema, si prega di scaricare nuovamente il progetto!
+[268]
+string = Il progetto mostra che i dati di configurazione sono anormali, Scarica nuovamente il progetto!
+[269]
+string = No
+[270]
+string = Avvia
+[271]
+string = Cessazione 
+[272]
+string = Informazioni sul simulatore
+[273]
+string = Versione del simulatore
+[274]
+string = Commutazione della modalità USB fallita!
+[275]
+string = Impostazioni di rete
+[276]
+string = Secondo
+[277]
+string = Il tempo di sistema è anormale! Si prega di ripristinare l'ora del sistema o attivare tutte le fasi del progetto.
+[278]
+string = Fare clic su "Attiva": il programma accederà all'interfaccia di attivazione della gestione temporanea.
+[279]
+string = Attiva
+[280]
+string = Il progetto è soggetto al periodo di esercizio e questa modifica potrebbe comportare il mancato funzionamento del progetto?
+[281]
+string = Continua questa modifica temporale
+[282]
+string = Annulla questa modifica temporale
+[283]
+string = Casella combinata
+[284]
+string = Modo logout:
+[285]
+string = Timeout di accesso
+[286]
+string = Timeout di inattività
+[287]
+string = Tempo libero:
+[288]
+string = Accesso USB
+[289]
+string = Verifica della chiave USB fallita!
+[290]
+string = Dialogo di conferma
+[291]
+string = Determinato a fare questo?
+[292]
+string = Le autorizzazioni non sono soddisfatte e l'operazione non può essere eseguita!
+[293]
+string = I file del progetto utente sono protetti e l'avvio non è riuscito!
+[294]
+string = Stampa
+[295]
+string = Stampante:
+[296]
+string = Numero di copie:
+[297]
+string = Impostazione del colore
+[298]
+string = Bianco e nero
+[299]
+string = Colore
+[300]
+string = Pagina
+[301]
+string = Carta
+[302]
+string = Formato carta:
+[303]
+string = Direzione di stampa
+[304]
+string = Laterale
+[305]
+string = Verticale
+[306]
+string = Margini
+[307]
+string = Millimetro
+[308]
+string = A sinistra:
+[309]
+string = A destra:
+[310]
+string = Top:
+[311]
+string = In basso:
+[312]
+string = Imposta i parametri di stampa
+[313]
+string = Informazioni di base
+[314]
+string = Impossibile ottenere le informazioni sulla versione dell'ambiente di configurazione, Il sistema non può garantire che il file di progetto sia compatibile con l'ambiente in esecuzione, Prova a scaricare di nuovo il progetto!
+[315]
+string = L'ambiente di configurazione non è compatibile con l'ambiente operativo!
+[316]
+string = Versione dell'ambiente di configurazione:
+[317]
+string = Versione dell'ambiente operativo:
+[318]
+string = Inizializzazione del modulo file di memoria non riuscita, codice di errore: %1
+[319]
+string = Scheda di rete:
+[320]
+string = %1 nome NIC non riuscito a ottenere!
+[321]
+string = IP:
+[322]
+string = DHCP:
+[323]
+string = Por favor digite sua senha!
+[324]
+string = L'utente non ha il permesso di uscire dal sistema!
+[325]
+string = Inizializzazione del modulo di ricetta non riuscita con codice di errore:%1
+[326]
+string = Inizializzazione del backup dei dati non riuscita con codice di errore:%1
+[327]
+string = Inizializzazione del modulo di temporizzazione non riuscita con codice di errore:%1
+[328]
+string = Impossibile avviare il servizio del modulo di ricetta con codice di errore:%1
+[329]
+string = Impossibile avviare il servizio di backup dei dati con codice di errore:%1
+[330]
+string = Impossibile avviare il servizio del modulo di temporizzazione con codice di errore:%1
+[331]
+string = Segui lo zoom della pagina
+[332]
+string = Campo riservato 3
+[333]
+string = Campo riservato 4
+[334]
+string = Lo spazio rimanente sul disco del sistema è seriamente insufficiente!
+[335]
+string = Il programma continuerà a funzionare, ma i dati del valore iniziale / allarme / cronologia e altre operazioni di salvataggio potrebbero non riuscire!
+[336]
+string = L'IP non si trova nella stessa subnet del gateway!
+[337]
+string = Abilita la modalità di rete
+[338]
+string = simulatore
+[339]
+string = Sbloccare con successo, il progetto può correre per sempre!
+[340]
+string = Lo sblocco ha esito positivo e il progetto può essere eseguito alla data specificata
+[341]
+string = Non è possibile utilizzare l'indirizzo IP del segmento di rete 200.200.201.*.
+[342]
+string = inizializzazione archiviazione dei dati non riuscita con codice di errore:%1
+[343]
+string = Impossibile avviare il servizio di salvataggio dei dati, codice di errore:%1
+[344]
+string = Modifica del contenuto
+[345]
+string = Operazione di clic del mouse
+[346]
+string = Mouse Giù Funzionamento
+[347]
+string = Operazione di sollevamento del mouse
+[348]
+string = Operazione di movimento del mouse
+[349]
+string = Operazione di trascinamento del mouse
+[350]
+string = Evento stampa pulsante
+[351]
+string = Evento di sollevamento pulsanti
+[352]
+string = Evento mouse down
+[353]
+string = Evento di sollevamento del mouse
+[354]
+string = Evento di movimento del mouse
+[355]
+string = Evento clic del mouse
+[356]
+string = Partizione dati è montata fallire!
+[357]
+string = Il progetto non funziona correttamente.
+[358]
+string = Scansione e riparazione dei dati della partizione del disco danneggiati, attendere
+[359]
+string = Si prega di non spegnere, aggiornare le applicazioni o eseguire l'unità flash USB durante la scansione del disco!
+[360]
+string = Codice di errore:
+[361]
+string = Fare clic su "OK" per riavviare il sistema operativo!
+[362]
+string = Inizializzazione del log delle operazioni fallita!
+[363]
+string = Disponibile
+[364]
+string = Offline
+[365]
+string = Questa operazione potrebbe richiedere molto tempo e cancellerà tutte le informazioni sulla stampante offline Continua?
+[366]
+string = Riavvia ora
+[367]
+string = Riavvia dopo
+[368]
+string = Le informazioni sulla stampante sono state aggiornate con successo! Vuoi riavviare ora per applicare la nuova configurazione?
+[369]
+string = Aggiornamento delle informazioni sulla stampante fallito!
+[370]
+string = DNS:
+[371]
+string = Le informazioni DNS inserite non sono corrette!
+[372]
+string = Per favore inserisci le informazioni complete sul DNS!
+[373]
+string = Aggiorna il tuo ambiente operativo a%1 o più recente!
+[374]
+string = Si prega di provare a scaricare di nuovo il progetto!
+[375]
+string = Componente esterno
+[376]
+string = Non compatibile!
+[377]
+string = versione:
+[378]
+string = La versione minima del componente esterno supportata dall'ambiente di runtime:
+[379]
+string = Si prega di aggiornare i componenti a%1 o superiore!
+[380]
+string = La versione dell'ambiente di esecuzione richiesta per il componente plug-in:
+[381]
+string = sconosciuto
+[382]
+string = Nome del componente:
+[383]
+string = corrente
+[384]
+string = Rinfrescare
+[385]
+string = Accesso riuscito!
+[386]
+string = Accesso fallito!
+[387]
+string = L'utente non esiste!
+[388]
+string = Il file chiave non esiste!
+[389]
+string = Analisi del file chiave non riuscita!
+[390]
+string = Impossibile aprire il file chiave!
+[391]
+string = Logout riuscito!
+[392]
+string = Logout fallito!
+[393]
+string = L'utente annulla l'operazione
+[394]
+string = "%1" i dati sono stati modificati, sono disponibili?
+[395]
+string = Fallimento di save!
+[396]
+string = "%1" dato superiore al limite, per favore riprovare con una riduzione.
+[397]
+string = Fallimento delle importazioni!
+[398]
+string = Introduzione di dati relativi alla documentazione oltre i limiti, si prega di procedere ad una nuova analisi semplificata.
+[399]
+string = Pagina di prova
+[400]
+string = Cerca
+[401]
+string = La stampante è stata trovata e l'installazione del driver è stata completata. Vuoi riavviare immediatamente?
+[402]
+string = Inserisci un indirizzo IP valido!
+[403]
+string = Ricerca stampante non riuscita!
+[404]
+string = Tipo:
+[405]
+string = Mantenere la modalità master-slave USB
+[406]
+string = La modalità USB impostata non è coerente con la modalità USB corrente del dispositivo!
+[407]
+string = Impossibile leggere le informazioni sull'hardware! Codice errore:%1.
+[408]
+string = Le condizioni hardware non sono soddisfatte! Codice errore:%1.
+[409]
+string = Il progetto %1 non può essere eseguito su questo dispositivo!
+[410]
+string = Configurazione
+[411]
+string = Indirizzo del servizio:
+[412]
+string = Nome del dispositivo:
+[413]
+string = nome utente:
+[414]
+string = Parola d'ordine:
+[415]
+string = Password VNC:
+[416]
+string = Esportare
+[417]
+string = in linea
+[418]
+string = disconnesso
+[419]
+string = Errore offline
+[420]
+string = Vai automaticamente in linea all'avvio
+[421]
+string = Impossibile impostare il passaggio automatico in linea all'avvio!
+[422]
+string = Annulla l'errore online automatico all'avvio!
+[423]
+string = Impossibile andare online
+[424]
+string = Esportazione non riuscita, il disco U non è inserito
+[425]
+string = Esportazione non riuscita, acquisizione del numero SN non riuscita
+[426]
+string = Esportazione non riuscita, impossibile ottenere ICCID
+[427]
+string = Esportazione non riuscita, impossibile ottenere la password di accesso
+[428]
+string = Esportazione non riuscita, acquisizione del nome del dispositivo non riuscita
+[429]
+string = Esportazione non riuscita, acquisizione del nome utente non riuscita
+[430]
+string = Esportazione non riuscita, apertura del file non riuscita!
+[431]
+string = Esportazione non riuscita, scrittura del file non riuscita:
+[432]
+string = Esportazione riuscita nel file del disco U% 1!
+[433]
+string = Impostazione non riuscita, modifica dell'indirizzo di servizio non riuscita!
+[434]
+string = Impostazione fallito, il nome del dispositivo di modifica non è riuscita!
+[435]
+string = Impostazione non riuscita, modifica del nome utente non riuscita, formato del nome utente errato!
+[436]
+string = Impostazione non riuscita, modifica del nome utente non riuscita, accesso al servizio non riuscito!
+[437]
+string = Impostazione non riuscita, modifica della password non riuscita, formato della password errato!
+[438]
+string = Impostazione non riuscita, modifica della password non riuscita, accesso al servizio non riuscito!
+[439]
+string = Impostazione non riuscita, modifica della password VNC non riuscita!
+[440]
+string = L'impostazione dei parametri è riuscita!
+[441]
+string = La configurazione non è cambiata!
+[442]
+string = Nome dell'equipaggiamento
+[443]
+string = nome utente
+[444]
+string = Il nome utente può contenere solo 6 ~ 32 lettere
+[445]
+string = La password può essere composta solo da 6-32 lettere o numeri
+[446]
+string = disconnesso
+[447]
+string = in linea
+[448]
+string = in linea
+[449]
+string = Abilitare
+[450]
+string = Non attivato
+[451]
+string = disattivare
+[452]
+string = Configurazione WiFi
+[453]
+string = Abilitare:
+[454]
+string = SSID:
+[455]
+string = parola d'ordine:
+[456]
+string = stato:
+[457]
+string = segnale:
+[458]
+string = durata:
+[459]
+string = connessione
+[460]
+string = non collegata
+[461]
+string = collegato
+[462]
+string = Impossibile avviare la ricerca nel WiFi! Per favore riprova più tardi
+[463]
+string = Disconnetti
+[464]
+string = Il wifi è attualmente connesso, è disconnesso?
+[465]
+string = Connessione non riuscita, ssid è vuoto
+[466]
+string = Impossibile impostare i parametri di connessione
+[467]
+string = Avvia connessione anormale
+[468]
+string = collegamento …
+[469]
+string = Password WIFI
+[470]
+string = La lunghezza massima della password è di 20 caratteri
+[471]
+string = ICCID:
+[472]
+string = Indirizzo dell'assistenza
+[473]
+string = Password VNC
+[474]
+string = Internet delle cose
+[475]
+string = Configurazione dei parametri
+#for MCGS_APP 1000~1999
+[1000]
+string = Grave
+[1001]
+string = Avvio non riuscito: il file di verifica della versione mcgs non esiste!
+[1002]
+string = Avvio non riuscito, errore di esecuzione del popen: %1
+[1003]
+string = Avvio non riuscito: la verifica della versione di mcgs non passa!
+[1004]
+string = Per motivi di errore dettagliati, fare clic sul pulsante Mostra dettagli per visualizzare.
+[1005]
+string = Impossibile avviare, pclose non è riuscito a chiudere il puntatore del file: %1
+[1006]
+string = Avvio non riuscito: il contenuto del file di controllo della versione di mcgs è vuoto!
+#for plugins 2000~2999
+[2000]
+string = Numero
+[2001]
+string = Data
+[2002]
+string = Nome di oggetto
+[2003]
+string = Tipo di allarme
+[2004]
+string = Evento di allarme
+[2005]
+string = Valore di allarme
+[2006]
+string = Valore di limite
+[2007]
+string = Descrizione di allarme
+[2008]
+string = Tempo di risposta
+[2009]
+string = Ora di fine
+[2010]
+string = yyyy' anno 'MM' mese 'dd' giorno'
+[2011]
+string = hh' quando 'mm' dividere 'ss' secondo'
+[2012]
+string = Generazione di allarme
+[2013]
+string = Termine di allarme
+[2014]
+string = Risposta di allarme
+[2015]
+string = LL
+[2016]
+string = LO
+[2017]
+string = HI
+[2018]
+string = HH
+[2019]
+string = Deviazione inferiore
+[2020]
+string = Deviazione superiore
+[2021]
+string = Cambia quantità
+[2022]
+string = Fronte di discesa
+[2023]
+string = Fronte di salita
+[2024]
+string = Po ==
+[2025]
+string = Po OFF-->ON
+[2026]
+string = Po ON-->OFF
+[2027]
+string = Valore ==
+[2028]
+string = Valore <>
+[2029]
+string = Valore >
+[2030]
+string = Valore >=
+[2031]
+string = Valore <
+[2032]
+string = Valore <=
+[2033]
+string = Valore attuale
+[2034]
+string = Le impostazioni personalizzate per le ore di inizio e di fine non sono corrette! Formato corretto Ad esempio: 2008-08-08 08:08:08
+[2035]
+string = Imposta l'errore della linea di partenza! Linea di partenza impostata: %1 Linea di partenza corretta: Riga iniziale> = 0, Riga iniziale <=%2
+[2036]
+string = Impossibile leggere i dati di allarme!
+[2037]
+string = Contenuto
+[2038]
+string = Range di asse
+[2039]
+string = Unità
+[2040]
+string = Orologio assoluto
+[2041]
+string = Ora
+[2042]
+string = Durata dell’allarme
+[2043]
+string = gruppo
+[2044]
+string = classificazione
+[2045]
+string = Raggruppamento della gamma di filtri o errore di formato! Serie 0 ~ 255. Formato corretto, per esempio: 0,2,3 o 1-3
+[2046]
+string = Gerarchica gamma di filtraggio o errore di formato! Serie 0 ~ 100. Formato corretto, per esempio: 0,2,3 o 1-3
+[2047]
+string = Errore di classificazione del filtro o del formato! Range 0 ~ 3 formato corretto, per esempio: 0,2,3 o 1-3
+[2048]
+string = Interrogazione annullata. Il tempo di query supera il valore di soglia di:%1 ms. possono essere visualizzati solo risultati parziali.
+[2049]
+string = La query è annullata. Il numero di query supera la soglia: %1. Solo alcuni risultati possono essere visualizzati
+[2050]
+string = La query terminata, e la memoria disponibile è seriamente insufficiente
+#for Draw Object Name 3000~3999
+[3000]
+string = NONE
+[3001]
+string = Selettore
+[3002]
+string = Linea retta
+[3003]
+string = Arco
+[3004]
+string = Rettangolo
+[3005]
+string = Rettangolo arrotondato
+[3006]
+string = Ellisse
+[3007]
+string = Poligono o tratto poligonale
+[3008]
+string = Etichetta
+[3009]
+string = Bitmap
+[3010]
+string = Parallelogrammo
+[3011]
+string = Trapezoidale
+[3012]
+string = Diamante
+[3013]
+string = Ottagono
+[3014]
+string = Finestra per i commenti
+[3015]
+string = Croce
+[3016]
+string = Cubo
+[3017]
+string = Pentagono
+[3018]
+string = Esagono
+[3019]
+string = Triangolo obliquo
+[3020]
+string = Triangolo rettangolo
+[3021]
+string = Pentagramma
+[3022]
+string = Stella
+[3023]
+string = Tubo curvo
+[3024]
+string = Forma di pentola
+[3025]
+string = Freccia spessa
+[3026]
+string = Freccia sottile
+[3027]
+string = Freccia triangolare
+[3028]
+string = Piano di Groove
+[3029]
+string = Aereo concavo
+[3030]
+string = Piano convesso
+[3031]
+string = Tubo trasversale
+[3032]
+string = Tubo verticale
+[3033]
+string = Giunto per tubo
+[3034]
+string = Sfera tridimensionale
+[3035]
+string = Anello tridimensionale
+[3036]
+string = Cono tridimensionale
+[3037]
+string = Casella di input
+[3038]
+string = Blocco di flusso
+[3039]
+string = Pulsanti standard
+[3040]
+string = Pulsante animato
+[3041]
+string = Ingresso scorrevole
+[3042]
+string = Display animato
+[3043]
+string = Ingresso manopola
+[3044]
+string = Display di allarme
+[3045]
+string = Tendenza in tempo reale
+[3046]
+string = Tendenza storica
+[3047]
+string = Forma libera
+[3048]
+string = Segnala componente
+[3049]
+string = Riempimento percentuale
+[3050]
+string = Metro rotativo
+[3051]
+string = Salva la navigazione dei dati
+[3057]
+string = Icona di composizione
+[3058]
+string = Controllo dell'unità
+[3059]
+string = Tendenza pianificata
+[3060]
+string = Casella combinata
+[3061]
+string = Controllo plug-in
+[3062]
+string = Striscia di allarme
+[3063]
+string = Navigazione degli allarmi
+[3064]
+string = Curva Xy
+[3065]
+string = Formula
+[3066]
+string = GIF
+[3067]
+string = Codice QR
+[3068]
+string = Pulsante della tastiera

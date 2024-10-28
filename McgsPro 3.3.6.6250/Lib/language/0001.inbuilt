@@ -1,0 +1,1205 @@
+﻿#for GUI 0~999
+[info]
+languagename = English
+fontname = 宋体
+fontscale = 100
+[0]
+string = IP address:
+[1]
+string = Software version:
+[2]
+string = The unique serial number is:
+[3]
+string = Product configuration:
+[4]
+string = Product number:
+[5]
+string = Hold the screen 3 seconds at least for entering touch calibration
+[6]
+string = Run 30 minutes
+[7]
+string = Run project
+[8]
+string = System setting
+[9]
+string = None project
+[10]
+string = Warning
+[11]
+string = No available project, Please download the project 
+[12]
+string = Ignore
+[13]
+string = Set
+[14]
+string = System time exception! Please reset the system time or replace the battery and reset the system time.
+[15]
+string = Click "Ignore": The program will start the project.
+[16]
+string = Click "Set": The program will enter the system Settings interface. 
+[17]
+string = Ok
+[18]
+string = numeric:
+[19]
+string = Switch type[DEC]:
+[20]
+string = Switch type[HEX]:
+[21]
+string = Switch type[BIN]:
+[22]
+string = Cancel 
+[23]
+string = TPC password input
+[24]
+string = Please enter the password:
+[25]
+string = Prompt
+[26]
+string = The maximum password length are 20 characters!
+[27]
+string = Password input error! 
+[28]
+string = Blank space 
+[29]
+string = Capital
+[30]
+string = Lowercase
+[31]
+string = Symbol
+[32]
+string = Pinyin
+[33]
+string = Character:
+[34]
+string = Set 1
+[35]
+string = Set 0
+[36]
+string = Switch type input:
+[37]
+string = The new calibration Settings have been determined.
+[38]
+string = Click the button to accept the new Settings; Click blank area to retain the last Settings. 
+[39]
+string = Place your fingers lightly and accurately at the center of the cross cursor for at least one second.
+[40]
+string = Repeat the action when the target moves on the screen.
+[41]
+string = Confirm calibration
+[42]
+string = Continue
+[43]
+string = Exit 
+[44]
+string = Component named
+[45]
+string = is unsupported!
+[46]
+string = Click
+[47]
+string = The program will continue to run, but some of the components in the window will not work properly!
+[48]
+string = Exit the current running environment. 
+[49]
+string = Data serialization failed!
+[50]
+string = Set time range
+[51]
+string = All storage data
+[52]
+string = Recent time
+[53]
+string = Seconds
+[54]
+string = Minute
+[55]
+string = Hour 
+[56]
+string = Day
+[57]
+string = Month
+[58]
+string = Year
+[59]
+string = Fixed time 
+[60]
+string = Given time
+[61]
+string = Today
+[62]
+string = This month
+[63]
+string = This week
+[64]
+string = Yesterday
+[65]
+string = Last month 
+[66]
+string = previous day
+[67]
+string = previous month
+[68]
+string = previous week
+[69]
+string = Time division point
+[70]
+string = Day
+[71]
+string = TPC Settings 
+[72]
+string = Minutes
+[73]
+string = System information 
+[74]
+string = NK type:
+[75]
+string = Version type:
+[76]
+string = Release date:
+[77]
+string = Storage information
+[78]
+string = Physical storage:
+[79]
+string = Used storage:
+[80]
+string = Available storage:
+[81]
+string = Available memory:
+[82]
+string = Auto off backlight
+[83]
+string = Brightness adjustment:
+[84]
+string = Stay free
+[85]
+string = Close the backlight
+[86]
+string = Backlight
+[87]
+string = Mute
+[88]
+string = Buzzer duration:
+[89]
+string = Buzzer
+[90]
+string = Used for touch screen calibration again
+[91]
+string = Touch screen calibration
+[92]
+string = Use the mouse pointer
+[93]
+string = Touch 
+[94]
+string = Current time 
+[95]
+string = Setting
+[96]
+string = Time
+[97]
+string = Old Password:
+[98]
+string = New Password:
+[99]
+string = Re-enter Password:
+[100]
+string = Password
+[101]
+string = USB master-slave mode switches
+[102]
+string = Current USB mode: Master
+[103]
+string = Master mode 
+[104]
+string = Slave mode 
+[105]
+string = USB 
+[106]
+string = Please enter a new password!
+[107]
+string = Please enter the same password!
+[108]
+string = Input requires passwords with numbers and letters!
+[109]
+string = Error
+[110]
+string = Change the password failed!
+[111]
+string = Change the password successfully!
+[112]
+string = Set system time failed!
+[113]
+string = Set system time successfully.
+[114]
+string = Current USB mode: Slave 
+[115]
+string = Slave mode-->>Master mode 
+[116]
+string = Master mode-->>Slave mode 
+[117]
+string = Please confirm that the U disk is out!
+[118]
+string = When U disk is pulled out, click.
+[119]
+string = Switch the USB mode to the slave mode! 
+[120]
+string = Cancel this switch operation!
+[121]
+string = Please confirm the USB cable has been pulled out!
+[122]
+string = When USB cable is pulled out, click
+[123]
+string = Switch the USB mode to the master mode!
+[124]
+string = Real-time data initialization failed, error code: %1.
+[125]
+string = Drive device initialization failed, error code: %1.
+[126]
+string = Script engine initialization failed, error code: %1.
+[127]
+string = Back-end task initialization failed, error code: %1.
+[128]
+string = System 
+[129]
+string = Build version:
+[130]
+string = Do you cancel the DHCP network mode?
+[131]
+string = Do you switch the network to DHCP mode?
+[132]
+string = Change configuration successfully!
+[133]
+string = Network configuration information has not been modified!
+[134]
+string = Please enter complete gateway information!
+[135]
+string = IP and gateway are not in the same subnet. Are you set?
+[136]
+string = Yes
+[137]
+string = No 
+[138]
+string = The gateway information is wrong!
+[139]
+string = The broadcast address cannot be the host address! 
+[140]
+string = The number of IP hosts cannot be 0!
+[141]
+string = Please enter full subnet mask information!
+[142]
+string = The input subnet mask information is wrong!
+[143]
+string = Please enter a full IP address!
+[144]
+string = The input IP information is wrong!
+[145]
+string = GW  :
+[146]
+string = Mask:
+[147]
+string = Enable DHCP
+[148]
+string = Time setting
+[149]
+string = Monday
+[150]
+string = Tuesday
+[151]
+string = Wednesday
+[152]
+string = Thursday
+[153]
+string = Friday 
+[154]
+string = Saturday
+[155]
+string = Sunday
+[156]
+string = Network
+[157]
+string = Read the unique NAND ID failed.
+[158]
+string = Registration code file error
+[159]
+string = Registration code file does not exist
+[160]
+string = Error reading in the encryption area
+[161]
+string = An exception occurred during the registration code verification process.
+[162]
+string = The operating environment is unauthorized, error code is: 
+[163]
+string = The operating environment has been authorized.
+[164]
+string = Edit recipe
+[165]
+string = Add 
+[166]
+string = Delete
+[167]
+string = Copy
+[168]
+string = Up
+[169]
+string = Down
+[170]
+string = Save
+[171]
+string = Recipe number
+[172]
+string = Recipe name
+[173]
+string = Select a recipe
+[174]
+string = Apply
+[175]
+string = Cancel
+[176]
+string = Edit
+[177]
+string = Title
+[178]
+string = Value
+[179]
+string = Change password
+[180]
+string = Old password is wrong!
+[181]
+string = The new password is not consistent with the confirmation password! 
+[182]
+string = User name:
+[183]
+string = Set DHCP network model successfully 
+[184]
+string = Ask
+[185]
+string = Edit Box
+[186]
+string = User member management
+[187]
+string = User group member management
+[188]
+string = User group name:
+[189]
+string = User group description:
+[190]
+string = Included member
+[191]
+string = Alternative member
+[192]
+string = User group
+[193]
+string = User
+[194]
+string = The name is empty!
+[195]
+string = Name repetition!
+[196]
+string = The password is inconsistent!
+[197]
+string = The attached to user group is empty. Do you want to save?
+[198]
+string = result in circular references happened in its group relationship!
+[199]
+string = The selected member is empty. Do you want to save?
+[200]
+string = User name:
+[201]
+string = User password:
+[202]
+string = Attached to user group
+[203]
+string = Alternative user group
+[204]
+string = Range
+[205]
+string = User description:
+[206]
+string = User login
+[207]
+string = Online time:
+[208]
+string = Login
+[209]
+string = log out?
+[210]
+string = Reserved field 1
+[211]
+string = The user has no permission to edit the user or the user group!
+[212]
+string = Administrators group
+[213]
+string = Add user
+[214]
+string = Copy user
+[215]
+string = Edit user
+[216]
+string = Delete user
+[217]
+string = Add group
+[218]
+string = Copy group
+[219]
+string = Edit group
+[220]
+string = Delete group
+[221]
+string = Cannot be deleted!
+[222]
+string = Do you really want to delete the user
+[223]
+string = Configuration changes failed!
+[224]
+string = Do you really want to delete the user group
+[225]
+string = McgsLx supports user groups up to 32!
+[226]
+string = User management
+[227]
+string = User group management
+[228]
+string = Login user
+[229]
+string = The current login user has been logged off, will you log on again?
+[230]
+string = User logout
+[231]
+string = No login users! 
+[232]
+string = Back-end task service startup failed, error code: %1.
+[233]
+string = Script engine service startup failed, error code: %1.
+[234]
+string = Window system initialization failed, error code: %1.
+[235]
+string = Window system service startup failed, error code: %1.
+[236]
+string = Real-time data service startup failed, error code: %1.
+[237]
+string = Drive device service startup failed, error code: %1.
+[238]
+string = Num
+[239]
+string = User file is damaged, the user data cannot be loaded!
+[240]
+string = User permission data failed to load!
+[241]
+string = User has no access to run, exit system
+[242]
+string = User window
+[243]
+string = The program will continue to run, but the window will not be full!
+[244]
+string = Failed to set DHCP network mode!
+[245]
+string = Failed to cancel DHCP network mode!
+[246]
+string = Back
+[247]
+string = Zh
+[248]
+string = Abc
+[249]
+string = The program will continue to run, but the components in the window will not work properly!
+[250]
+string = project expired
+[251]
+string = Current period
+[252]
+string = End date:
+[253]
+string = extend period to
+[254]
+string = Input super password to activate the project permanently
+[255]
+string = Super password
+[256]
+string = Invalid date!
+[257]
+string = Up
+[258]
+string = Down
+[259]
+string = Reserved field 2
+[260]
+string = The project is incompatible with the operating environment, please upgrade McgsLx!
+[261]
+string = The project's screen rotation setting dose not match the operating environment requirement. To ensure the correctness of project display, please restart your touch screen!
+[262]
+string = Please input end date and password to extend the deadline
+[263]
+string = Input current period password to activate next period
+[264]
+string = Display configuration of project data is missing, please download the project again!
+[265]
+string = Click "Ignore": The program will continue to run, but it is possible to result in a abnormal display!
+[266]
+string = Click "Back": The program will return the system setting interface.
+[267]
+string = The project resolution does not match your touch screen. Please download the project again!
+[268]
+string = Display configuration of project data is exceptional, please download the project again!
+[269]
+string = None
+[270]
+string = Start
+[271]
+string = Stop
+[272]
+string = About simulator
+[273]
+string = Simulator version
+[274]
+string = USB mode switches failed!
+[275]
+string = Network Setting
+[276]
+string = Second
+[277]
+string = System time incorrect！please reset time or activate the project permanently.
+[278]
+string = Click"Activate": The program will enter installment dialog.
+[279]
+string = Activate
+[280]
+string = This modification may lead to abnormal running as project protected by expiry, continue?
+[281]
+string = Continue the time modification
+[282]
+string = Cancel the time modification
+[283]
+string = Combo Box
+[284]
+string = Logout way:
+[285]
+string = Online timeout
+[286]
+string = Idle timeout
+[287]
+string = Idle time:
+[288]
+string = USB login
+[289]
+string = USBKEY authentication failed!
+[290]
+string = Confirm dialog
+[291]
+string = Determined to do this?
+[292]
+string = Limited permission! Do not Operate!
+[293]
+string = Startup failed: The project has been protected!
+[294]
+string = Print
+[295]
+string = Printer:
+[296]
+string = Copies:
+[297]
+string = Color Mode
+[298]
+string = Grayscale
+[299]
+string = Color
+[300]
+string = Paper
+[301]
+string = Page
+[302]
+string = Page size:
+[303]
+string = Orientation
+[304]
+string = Landscape
+[305]
+string = Portrait
+[306]
+string = Margins
+[307]
+string = mm
+[308]
+string = Left:
+[309]
+string = Right:
+[310]
+string = Top:
+[311]
+string = Bottom:
+[312]
+string = Printer Settings
+[313]
+string = Basic Item
+[314]
+string = The configuration environment version information failed to be obtained. The system cannot ensure that the project file is compatible with the running environment. Please try to download the project again!
+[315]
+string = The configuration environment is incompatible with the operating environment!
+[316]
+string = The configuration environment version is:
+[317]
+string = The operating environment version is:
+[318]
+string = Buffer-file module initialization failed, error code: %1
+[319]
+string = NIC:
+[320]
+string = Get name of No.%1 network card failed!
+[321]
+string = IP:
+[322]
+string = DHCP:
+[323]
+string = Please enter the password!
+[324]
+string = The user is denied permission to exit the system！
+[325]
+string = Recipe initialization failed, error code： %1.
+[326]
+string = Data backup initialization failed, error code： %1.
+[327]
+string = Timer initialization failed, error code： %1.
+[328]
+string = Recipe service startup failed, error code： %1.
+[329]
+string = Data backup service startup failed, error code： %1.
+[330]
+string = Timer service startup failed, error code： %1.
+[331]
+string = Resize according to paper
+[332]
+string = Reserved field 3
+[333]
+string = Reserved field 4
+[334]
+string = Serious shortage of system disk space!
+[335]
+string = The program will continue to run, but the initial value/alarm/history data save operations may fail!
+[336]
+string = IP and gateway are not in the same subnet!
+[337]
+string = Enable network mode
+[338]
+string = Simulator
+[339]
+string = Unlocked successfully,the project can run permanently!
+[340]
+string = Unlocked successfully,the project can run till to
+[341]
+string = Cannot use the IP address of the 200.200.201.* network segment!
+[342]
+string = Data save initialization failed, error code:%1
+[343]
+string = Data save service failed to start, error code:%1
+[344]
+string = edit content
+[345]
+string = Mouse click operation
+[346]
+string = Mouse down operation
+[347]
+string = Mouse up operation
+[348]
+string = Mouse move operation
+[349]
+string = Mouse click and move operation
+[350]
+string = key down event
+[351]
+string = key up event
+[352]
+string = mouse down event
+[353]
+string = mouse up event
+[354]
+string = mouse move event
+[355]
+string = mouse click event
+[356]
+string = Data partition mount failed!
+[357]
+string = The project is not working properly. 
+[358]
+string = Scanning and repairing corrupted disk partition data, please wait
+[359]
+string = Please do not power off, upgrade applications or execute USB flash drive during disk scanning!
+[360]
+string = error code:
+[361]
+string = Please click "OK" to restart the operating system!
+[362]
+string = Operation log initialization failed!
+[363]
+string = Available
+[364]
+string = Offline
+[365]
+string = This operation may take a long time and will clear all offline printer information. Continue?
+[366]
+string = Restart now
+[367]
+string = Restart later
+[368]
+string = The printer information is refreshed successfully! Restart now to apply the new configuration?
+[369]
+string = Printer information refresh failed!
+[370]
+string = DNS:
+[371]
+string = The entered DNS information is incorrect!
+[372]
+string = Please enter the full DNS information!
+[373]
+string = Please upgrade your operating environment to %1 or newer!
+[374]
+string = Please try to download the project again!
+[375]
+string = External components
+[376]
+string = not compatible!
+[377]
+string = version:
+[378]
+string = The minimum external component version supported by the runtime environment:
+[379]
+string = Please upgrade the components to %1 or higher!
+[380]
+string = The running environment version required for the plug-in component:
+[381]
+string = unknown
+[382]
+string = Component name:
+[383]
+string = current
+[384]
+string = Refresh
+[385]
+string = Login successful!
+[386]
+string = Login failed!
+[387]
+string = User does not exist!
+[388]
+string = The key file does not exist!
+[389]
+string = Key file parsing failed!
+[390]
+string = Key file failed to open!
+[391]
+string = Logout successful!
+[392]
+string = Logout failed!
+[393]
+string = The user undoes the operation
+[394]
+string = The recipe data of "%1" has been modified. Do you want to save?
+[395]
+string = Save failed!
+[396]
+string = The recipe data of "%1" exceeded the limit, please delete and try again.
+[397]
+string = Import failed!
+[398]
+string = Import file data exceeded limit, please delete and try again.
+[399]
+string = Test page
+[400]
+string = Search
+[401]
+string = The printer has been found and the driver installation is complete. Do you want to restart immediately?
+[402]
+string = Please enter a valid IP!
+[403]
+string = Printer searching failed!
+[404]
+string = Type:
+[405]
+string = Maintain USB mode
+[406]
+string = The set USB mode is inconsistent with the current USB mode of the device!
+[407]
+string = Failed to read hardware information! Error code:%1.
+[408]
+string = The hardware conditions are not met! Error code:%1.
+[409]
+string = %1 project cannot be run on this device!
+[410]
+string = Config
+[411]
+string = Serv Addr:
+[412]
+string = Dev Name:
+[413]
+string = User Name:
+[414]
+string = Password:
+[415]
+string = VNC Pwd:
+[416]
+string = Export
+[417]
+string = Online
+[418]
+string = Offline
+[419]
+string = Offline failure
+[420]
+string = Automatically go online at boot
+[421]
+string = Failed to set to automatically go online at boot!
+[422]
+string = Cancel the automatic online failure at boot
+[423]
+string = Failed to go online
+[424]
+string = Export failed,U disk is not inserted
+[425]
+string = Export failed,SN number acquisition failed
+[426]
+string = Export failed,ICCID acquisition failed
+[427]
+string = Export failed,failed to obtain login password
+[428]
+string = Export failed,device name acquisition failed
+[429]
+string = Export failed,user name acquisition failed
+[430]
+string = Export failed,file opening failed!
+[431]
+string = Export failed,file writing failed:
+[432]
+string = Successfully exported to U disk %1 file!
+[433]
+string = Setting failed,service address modification failed!
+[434]
+string = Setting failed,device name modification failed!
+[435]
+string = Setting failed,username modification failed, username format is wrong!
+[436]
+string = Setting failed,user name modification failed, service access failed!
+[437]
+string = Setting failed,password modification failed, password format is wrong!
+[438]
+string = Setting failed,password modification failed, service access failed!
+[439]
+string = Setting failed,VNC password modification failed!
+[440]
+string = The parameter setting is successful!
+[441]
+string = The configuration has not changed!
+[442]
+string = Dev Name
+[443]
+string = User Name
+[444]
+string = Username can only consist of 6~32 letters
+[445]
+string = The password can only consist of 6-32 letters or numbers
+[446]
+string = Offline
+[447]
+string = Online
+[448]
+string = Connected
+[449]
+string = Enable
+[450]
+string = Not enabled
+[451]
+string = Disable
+[452]
+string = WiFi configuration
+[453]
+string = Enable:
+[454]
+string = SSID:
+[455]
+string = Password:
+[456]
+string = Status:
+[457]
+string = Signal:
+[458]
+string = Duration:
+[459]
+string = Connect
+[460]
+string = Not connected
+[461]
+string = Connected
+[462]
+string = Failed to start searching WiFi! Please try again later
+[463]
+string = Disconnect
+[464]
+string = The wifi is currently connected, is it disconnected?
+[465]
+string = Connection failed, ssid is empty
+[466]
+string = Failed to set connection parameters
+[467]
+string = Start connection abnormal
+[468]
+string = Connecting…
+[469]
+string = WIFI password
+[470]
+string = The maximum password length is 20 characters
+[471]
+string = ICCID:
+[472]
+string = Serv Addr
+[473]
+string = VNC Pwd
+[474]
+string = Internet of Things
+[475]
+string = Configuration
+#for MCGS_APP 1000~1999
+[1000]
+string = Serious
+[1001]
+string = Startup failed: MCGS version check file does not exist!
+[1002]
+string = Startup failed, popen execution error: %1.
+[1003]
+string = Failed to start: MCGS version check does not pass!
+[1004]
+string = Please click the Show Details button for more error reasons.
+[1005]
+string = Startup failed, pclose closes the file pointer failed: %1.
+[1006]
+string = Startup failed: the MCGS version verifies the file content is empty!
+#for plugins 2000~2999
+[2000]
+string = Number
+[2001]
+string = Date
+[2002]
+string = Object name
+[2003]
+string = Alarm type
+[2004]
+string = Alarm events
+[2005]
+string = Alarm value
+[2006]
+string = Limit value
+[2007]
+string = Alarm description
+[2008]
+string = Response time
+[2009]
+string = End time
+[2010]
+string = yyyy-MM-dd
+[2011]
+string = hh:mm:ss
+[2012]
+string = Alarm generation
+[2013]
+string = End of alarm
+[2014]
+string = Alarm response
+[2015]
+string = Lower and lower limit alarm
+[2016]
+string = Lower limit alarm
+[2017]
+string = Upper limit alarm
+[2018]
+string = Upper and upper limit alarm
+[2019]
+string = Lower deviation alarm
+[2020]
+string = Upper deviation alarm
+[2021]
+string = Switch variable alarm
+[2022]
+string = Negative jump alarm
+[2023]
+string = Positive jump alarm
+[2024]
+string = Equal bit alarm
+[2025]
+string = OFF-->ON bit alarm
+[2026]
+string = ON-->OFF bit alarm
+[2027]
+string = Equal value alarm
+[2028]
+string = Not equal value alarm
+[2029]
+string = Greater-than value alarm
+[2030]
+string = Not less-than value alarm
+[2031]
+string = Less-than value alarm
+[2032]
+string = Not greater-than value alarm
+[2033]
+string = Current value
+[2034]
+string = Custom start time and end time variable setup error! The correct format is: 2008-08-08 08:08:08.
+[2035]
+string = Set the start line error!You set the starting line: %1 correct start line: start line >= 0, starting line <= %2.
+[2036]
+string = Read the alarm failure!
+[2037]
+string = Content
+[2038]
+string = Coordinate range
+[2039]
+string = Unit
+[2040]
+string = Absolute clock
+[2041]
+string = Hour
+[2042]
+string = Duration
+[2043]
+string = Group
+[2044]
+string = Level
+[2045]
+string = Group filter range or  format error! Range is 0~255! The correct format is: 0,2,3 or 1-3
+[2046]
+string = Level filter range or  format error! Range is 0~100! The correct format is: 0,2,3 or 1-3
+[2047]
+string = Type filter range or  format error! Range is 0~3! The correct format is: 0,2,3 or 1-3
+[2048]
+string = The query is aborted. The query time exceeds the threshold value of %1 Ms. only some results may be displayed
+[2049]
+string = The query is aborted. The number of queries exceeds the threshold: %1. Only some results may be displayed
+[2050]
+string = The query terminated, and the available memory is seriously insufficient
+#for Draw Object Name 3000~3999
+[3000]
+string = NONE 
+[3001]
+string = Selector
+[3002]
+string = Straight line
+[3003]
+string = Arc
+[3004]
+string = Rectangle
+[3005]
+string = Rounded rectangle
+[3006]
+string = Ellipse
+[3007]
+string = Polygon or Broken line
+[3008]
+string = Label
+[3009]
+string = Bitmap
+[3010]
+string = Parallelogram
+[3011]
+string = Trapezoidal
+[3012]
+string = Diamond
+[3013]
+string = octagon
+[3014]
+string = Comment box
+[3015]
+string = Cross
+[3016]
+string = Cube
+[3017]
+string = pentagon
+[3018]
+string = hexagon
+[3019]
+string = Oblique triangle
+[3020]
+string = Right triangle
+[3021]
+string = Pentagram
+[3022]
+string = Star
+[3023]
+string = Bent pipe
+[3024]
+string = Pot
+[3025]
+string = Coarse arrow
+[3026]
+string = Fine arrow
+[3027]
+string = Triangular arrowheads
+[3028]
+string = Groove plane
+[3029]
+string = Concave plane
+[3030]
+string = Convex plane
+[3031]
+string = Cross pipe
+[3032]
+string = Vertical pipe
+[3033]
+string = Pipe joint
+[3034]
+string = Three dimensional sphere
+[3035]
+string = Three dimensional circle
+[3036]
+string = Three dimensional cone
+[3037]
+string = Input box
+[3038]
+string = Flow block
+[3039]
+string = Standard button
+[3040]
+string = Animation button
+[3041]
+string = Sliding input
+[3042]
+string = Animation display
+[3043]
+string = Knob input
+[3044]
+string = Alarm display
+[3045]
+string = Real time curve
+[3046]
+string = History curve
+[3047]
+string = Free form
+[3048]
+string = Report 
+[3049]
+string = Percentage fill
+[3050]
+string = Rotating instrument
+[3051]
+string = Deposit data browsing
+[3057]
+string = Constitute a glyph
+[3058]
+string = Unit components
+[3059]
+string = Plan curve
+[3060]
+string = Combo box
+[3061]
+string = External components
+[3062]
+string = Alarm bar
+[3063]
+string = Alarm browsing
+[3064]
+string = XY curve
+[3065]
+string = Recipe
+[3066]
+string = GIF
+[3067]
+string = QR code
+[3068]
+string = Keyboard button
+
